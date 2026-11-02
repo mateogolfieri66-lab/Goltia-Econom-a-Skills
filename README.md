@@ -18,6 +18,10 @@ usuario (tasa de descuento, flujos de fondos, costos).
    descuento.
 2. **punto-equilibrio** — unidades y facturación necesarias para cubrir
    costos fijos y variables, más margen de seguridad.
+3. **costo-real-empleado** — costo mensual real de un empleado (sueldo
+   bruto + cargas sociales + aguinaldo prorrateado + otros costos), y
+   costo real por hora. No asume ningún % legal fijo: lo cargás vos, con
+   tu tasa vigente.
 
 ## Instalación
 
