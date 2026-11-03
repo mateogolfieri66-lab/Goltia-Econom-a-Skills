@@ -21,7 +21,5 @@ tus propios números.
    y qué no vale la pena duplicar en un proyecto.
 6. **06_Orales** — guía propuesta de estudio con NotebookLM (es una
    propuesta general, no la rutina personal de nadie en particular).
-7. **07_Calendario** — calendario de publicación de referencia para la
-   serie de 6 videos.
 
 Todas las fórmulas fueron verificadas antes de subir el archivo.
